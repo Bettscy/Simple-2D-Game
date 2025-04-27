@@ -1,6 +1,6 @@
 This game includes:
 
-**Game Grid: **
+**Game Grid:**
 A 10x10 grid where the game takes place
 
 **Player Controls:**
