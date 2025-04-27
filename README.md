@@ -2,18 +2,23 @@ This game includes:
 
 **Game Grid: **
 A 10x10 grid where the game takes place
+
 **Player Controls:**
 Move with arrow keys or WASD
 Player is represented by a blue circle
+
 **Items to Collect:**
 Yellow stars that increase your score
 New items spawn when you collect existing ones
+
 **Obstacles to Avoid:**
 Red X marks that end the game if touched
+
 **Game State:**
 Score tracking
 Game over detection
 Restart functionality
+
 **UI Elements:**
 Score display
 Game controls legend
